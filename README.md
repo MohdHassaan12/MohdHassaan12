@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/12mdhassan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mohdhassaan12.github.io" target="_blank">
+  <a href="[https://mohdhassaan12.github.io](https://mohdhassaan12.github.io/hassan-portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
