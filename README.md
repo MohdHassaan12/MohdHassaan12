@@ -60,8 +60,6 @@
 | Project | Description |
 | ------- | ----------- |
 | **🔐 VPN Detection & Deanonymisation** | Machine learning based system to detect VPN traffic and deanonymize network usage patterns. |
-| **🌐 Network Security Tools** *(Upcoming)* | Collection of networking and security scripts including port scanner and packet sniffer. |
-| **🤖 Malware Detection using ML** *(Upcoming)*| AI-based malware classification system using supervised learning. |
 | **💻 Portfolio Website** | Personal portfolio showcasing projects and technical skills. |
 
 ---
